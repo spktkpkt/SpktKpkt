@@ -1,8 +1,8 @@
 ```
-  ^ ^                
- (O,o)               
- ( . )                            spktkpkt    
---"-"--------------------------------------
+   ///,                
+  (o,O)               
+  (  )                            spktkpkt    
+---""--------------------------------------
 
 Just a random repository with random stuff.
 
