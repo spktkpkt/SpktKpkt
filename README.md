@@ -4,7 +4,7 @@
   (  )                            SpktKpkt    
 ---""--------------------------------------
 
-Just a random repository with random stuff.
+Just random repositories with random stuff.
 
 Cheers, Sebastian
 ```
